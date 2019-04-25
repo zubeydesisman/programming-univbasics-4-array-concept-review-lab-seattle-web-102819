@@ -38,4 +38,4 @@ possible.
 ## Resources
 
 - [Arrays](https://ruby-doc.org/core-2.5.3/Array.html)
-- [Enumerable](https://ruby-doc.org/core-2.5.3/Enumerable.html
+- [Enumerable](https://ruby-doc.org/core-2.5.3/Enumerable.html)
