@@ -1,4 +1,4 @@
-# Array L
+# Finding Data In Arrays
 
 ## Learning Goals
 
@@ -14,11 +14,12 @@ arrangements. We can actually use loops to create entirely new arrays, filled
 with the same content, but rearranged! Before we get there, let's practice
 getting specific data from an array using a loop.
 
-## Perform Operations on Arrays
+## Instructions
 
 For this lab's test, assume all arrays are sets of **positive integers**. The
-methods and parameters are provided for you. Write the implementation for each
-method solves the tests.
+methods and parameter names are provided for you in `lib/array_methods.rb`.
+
+Write the implementation for each of these methods that solves the tests.
 
 ### Finding Where an Element is Located on an Array
 
