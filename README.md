@@ -1,10 +1,9 @@
-# Finding Data In Arrays
+# Using Loops and Arrays to Find Data
 
 ## Learning Goals
 
 - Work with arrays and loops to extract specific values
 - Use loops to compare values in an array
-- Build an array sorting method
 
 ## Introduction
 
