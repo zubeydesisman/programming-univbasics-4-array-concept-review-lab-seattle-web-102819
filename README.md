@@ -35,15 +35,25 @@ _not_ the value that needs to be returned
 
 The second method, `find_max_value(array)`, takes in an array of integers. This
 methods should return whichever integer in the array has the highest value. So,
-for instance, if we passed in the following:
+for instance, if we ran the following:
 
 ```ruby
-
+find_max_value([1,2,1,3,4,3,5,4,3,2,1])
 ```
+
+We should expect to receive `5` in return. Remember when writing your
+implementation, you will need to check _every_ number in a given array
 
 ### Finding a Minimum Value
 
-Define a method that finds the highest number in a given array.
+Similar to the previous, `find_min_value(array)`, takes in an array of integers.
+This method should return whichever integer in the array has the lowest value.
+
+```ruby
+find_max_value([10,5,3,7,19,1,3,10])
+```
+
+We should expect to receive `1` in return.
 
 ## Conclusion
 
