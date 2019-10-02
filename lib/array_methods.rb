@@ -8,11 +8,11 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  empty = []
+  highest = []
   first = array[0]
   array.length.times do |i|
     if(array[i] > first)
-      empty.push(array[i])
+     highest =  array[i] 
 end
    return
 end
