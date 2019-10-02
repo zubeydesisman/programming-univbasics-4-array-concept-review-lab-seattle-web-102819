@@ -12,14 +12,14 @@ def find_max_value(array)
   array.length.times do |i|
     if(array[i] > highest)
      highest =  array[i] 
-   end
-end
-   return highest
+    end
+  end
+  return highest  
 end
  
 def find_min_value(array)
   min = array[0]
-  for item in array 
-  
-end
+  for item in array  do
+   if()
+  end
 end
